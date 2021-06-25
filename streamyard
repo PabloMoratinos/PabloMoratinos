@@ -1,0 +1,3 @@
+// Control de overlays
+document.querySelector ("[aria-label^='superposición http']").setAttribute("accesskey","y");
+document.querySelector ("[aria-label^='Solo__Wrap-ditRGp']").setAttribute("accesskey","z");
