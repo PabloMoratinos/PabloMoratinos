@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PabloMoratinos
-- 👀 I’m interested in marketing and WordPress
-- 🌱 I’m currently learning R
+- 👀 I’m interested in Analytics, Growth and WordPress
 
 <!---
 PabloMoratinos/PabloMoratinos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
